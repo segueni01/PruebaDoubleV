@@ -5,7 +5,7 @@ Tener en cuenta que el tipo de las fechas es DateTimeOffset, se le puso un forma
 
 Pasos a tener en cuenta para correr el proyecto:
 
-NOTA: Este proyecto requiere .net core 5
+NOTA: Este proyecto requiere .net core 6
 
 1. Configurar en el archivo appsettings.json la cadena de conexion de la base de datos que queremos apuntar, esta se encuentra en la variable llamada "DevConexion".
 
