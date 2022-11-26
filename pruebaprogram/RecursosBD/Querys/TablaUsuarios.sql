@@ -1,6 +1,6 @@
 ﻿CREATE TABLE [DoubleV].[Usuarios](
 	[Identificador] [uniqueidentifier] NOT NULL,
-	[Usuario] [nvarchar](250) NOT NULL,
+	[Usuario] [nvarchar](max) NOT NULL,
 	[Pass] [nvarchar](250) NOT NULL,
 	[FechaCreacion] [datetimeoffset](7) NOT NULL,
  CONSTRAINT [PK_Usuarios] PRIMARY KEY CLUSTERED 
