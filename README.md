@@ -1,8 +1,3 @@
-# FactureProfesoresBACK
-Parte BACK de la prueba de profesores de FACTURE
-
-Tener en cuenta que el tipo de las fechas es DateTimeOffset, se le puso un formato de "yyyy-MM-dd"
-
 Pasos a tener en cuenta para correr el proyecto:
 
 NOTA: Este proyecto requiere .net core 6
